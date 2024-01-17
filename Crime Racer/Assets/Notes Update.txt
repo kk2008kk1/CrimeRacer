@@ -1,0 +1,8 @@
+Updates:
+
+For the next time:
+1. Fixing the car's break sound on start
+2. Add Shop System + Icons
+3. Fix the car's crash effect
+4. Fix the street lamps animation
+
